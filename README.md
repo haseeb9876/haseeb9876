@@ -3,11 +3,11 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 - 🎓 I am currently studying Cybersecurity and DevOps
 - 💻 I work with **Python, Docker, Kubernetes, and Cloud Platforms**
 - 📚 Always learning and exploring new technologies
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/haseeb-ullah-b348a12b4)
+- 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/hasebullah-devops)
 
 ---
 
