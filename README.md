@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Haseeb Ullah</h1>
-<h3 align="center">A Student & Aspiring DevOps and Cybersecurity Engineer</h3>
+<h3 align="center">🚀 DevOps & Cybersecurity Enthusiast | Lifelong Learner</h3>
 
 ---
 
-###  About Me
-- 🎓 I am currently studying Cybersecurity and DevOps
-- 💻 I work with **Python, Docker, Kubernetes, and Cloud Platforms**
-- 📚 Always learning and exploring new technologies
-- 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/hasebullah-devops)
+### 💡 About Me
+- 🎓 Currently studying **Cybersecurity** and **DevOps**
+- 💻 Skilled in **Python, Docker, Kubernetes, Cloud Platforms, and Linux**
+- 📚 Passionate about learning, exploring, and building real-world projects
+- 🔍 Interested in **Cloud Security, Automation, and AI in DevOps**
+- 🏆 Completed multiple industry-recognized certifications
+- 🌍 Open to **collaborations, internships, and remote work opportunities**
+
+---
+
+### 📫 Contact Me
+- 📧 **Email:** [haseebullahkhan5893@gmail.com](mailto:haseebullahkhan5893@gmail.com)
+- 💼 **LinkedIn:** [Haseeb Ullah](https://www.linkedin.com/in/hasebullah-devops)
+- 🌐 **Portfolio:** _Coming Soon_
+- 🐙 **GitHub:** [haseeb9876](https://github.com/haseeb9876)
 
 ---
 
@@ -19,7 +29,30 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
+
+---
+
+### 🎓 Certifications
+- **ISO 27001, ISO 27017, ISO 27018** Lead Implementer & Auditor  
+- **AWS Solutions Architect** (Associate)  
+- **Microsoft Azure Administrator**  
+- **Ethical Hacking & Incident Response**  
+- **Kubernetes Fundamentals**  
+- **Docker Deep Dive**  
+- **Python Deep Dive**  
+- **SIEM Engineer Training**
+
+---
+
+### 🚀 Projects
+- 🛒 **E-Commerce Platform** – Full-stack online shopping app using React & Node.js
+- 📦 **Two-Tier Flask App** – Dockerized web app with database layer
+- ☁ **Kubernetes Cluster Setup** – Deployment of microservices using Kubernetes
+- 🐧 **Linux Automation Scripts** – Shell scripts for system monitoring & backup
+- 🔐 **SIEM Setup** – Security monitoring with Elastic Stack
 
 ---
 
@@ -40,3 +73,6 @@
 ---
 
 💬 **Quote:** _"Learning never exhausts the mind – Leonardo da Vinci"_
+
+---
+⭐ **Fun Fact:** I believe in learning by doing — my GitHub is my playground 🚀
