@@ -4,7 +4,7 @@
 ---
 
 ### 💡 About Me
-- 🎓 Currently studying **Cybersecurity** and **DevOps**
+- 🎓 Currently My graduation is completed in **Artificial intellegence operations**
 - 💻 Skilled in **Python, Docker, Kubernetes, Cloud Platforms, and Linux**
 - 📚 Passionate about learning, exploring, and building real-world projects
 - 🔍 Interested in **Cloud Security, Automation, and AI in DevOps**
@@ -16,7 +16,7 @@
 ### 📫 Contact Me
 - 📧 **Email:** [haseebullahkhan5893@gmail.com](mailto:haseebullahkhan5893@gmail.com)
 - 💼 **LinkedIn:** [Haseeb Ullah](https://www.linkedin.com/in/hasebullah-devops)
-- 🌐 **Portfolio:** _Coming Soon_
+- 🌐 **Portfolio:** (https://haseeb-automates-cloud.lovable.app/)
 - 🐙 **GitHub:** [haseeb9876](https://github.com/haseeb9876)
 
 ---
@@ -36,6 +36,8 @@
 ---
 
 ### 🎓 Certifications
+- **Certified Kuberneties administrator**
+- **Certified Kuberneties Security specialist** 
 - **ISO 27001, ISO 27017, ISO 27018** Lead Implementer & Auditor  
 - **AWS Solutions Architect** (Associate)  
 - **Microsoft Azure Administrator**  
